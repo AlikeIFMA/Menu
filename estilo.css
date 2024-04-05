@@ -1,7 +1,38 @@
 .cabecalho{
-    width: 1575px;
-    height: 260px;
-    margin-top: -10px;
+    width: 1590px;
+    height: 80px;
+    margin-top: -23px;
     margin-left: -10px;
-    background-color: black;
+    border-radius: 2px;
+    border-bottom-left-radius: 7px;
+    background-color: #919191;
+    
+}
+.cabecalho0{
+    width: 1585px;
+    height: 10px;
+    margin-left: -5px;
+    border-bottom-left-radius: 4px;
+    background-color: #7b7a7a;
+    
+}
+.cabecalholetra{
+    width: 20px;
+    color: black;
+    position: relative;
+    font-family: cursive;
+}
+div{
+    display: inline-block;
+}
+.cabecalholetra2{
+    color: black;
+    position: relative;
+    font-family: cursive;
+    transition-duration: 0.4s;
+}
+.cabecalholetra2:hover{
+    color: rgb(224, 224, 224);
+    position: relative;
+    font-family: cursive;
 }
